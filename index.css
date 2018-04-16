@@ -1,1 +1,90 @@
 
+container{
+	//width:1500px;
+}
+#subtitle{
+	height:50px;
+	background-color: #002e5b;
+}
+#cont{
+	float:left;
+	margin:10px 0px 10px 175px;
+}
+#cont li{
+	float:left;
+	margin-left: 50px
+}
+#cont span{
+	color:white;
+}
+#cnu{
+	float:left;
+	margin:20px 0px 10px 350px;
+}
+#cnu li{
+	float:left;
+	margin-right:20px;
+
+}
+#logo{
+	float:left;
+}
+#logo img{
+	height:85px;
+	width:260px;
+	margin-left: 230px;
+	margin-right: 180px;
+}
+#title {
+	float:left;
+}
+#title li{
+	float:left;
+	margin:40px 20px 10px 0px;
+}
+#title a{
+	margin:10px;
+	color:#005197;
+	font-size:16px;
+}
+#jpg img{
+	width:100%;
+	height:210px;
+ }
+ #main{
+	width:100%;
+	height:1200px;
+	//background:black;
+}
+#intro h1{
+	color:#005197;
+	font-size:35px;
+	font-weight: bold;
+	margin:50px 0px 50px 120px;
+}
+#intro p{
+	font-size:15px;
+	color:#666;
+	margin:0px 120px 150px 120px;
+}
+
+#picture{
+	margin-left:120px;
+}
+.six{
+	float:left;
+	margin:0px 30px 20px 0px;
+}
+.six img{
+	height:400px;
+	width:400px;
+}
+#footer{
+	background:#002e5b; 
+    width:100%;
+    height:75px;
+}
+#footer li{
+	float: left;
+	margin:30px 120px 10px 120px;
+}
